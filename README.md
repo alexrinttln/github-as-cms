@@ -1,3 +1,10 @@
+## Some projects using GitHub as CMS
+
+There are some projects that already make use of GitHub APIs and features to setup a basic CMS system:
+
+- [netlify/netlify-cms](https://github.com/netlify/netlify-cms).
+- [renatorib/github-blog](https://github.com/renatorib/github-blog).
+
 ## How GitHub repositories and discussions can serve as CMS
 
 > **Note** TL;DR: Read this only if you want to know how it works, but this not required to contribute to this repository specifically.
